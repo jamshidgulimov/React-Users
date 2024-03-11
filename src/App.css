@@ -19,7 +19,10 @@ position: fixed;
   padding-right: 20px;
   align-items: center;
 }
-
+.glav{
+  font-size: 60px;
+  color: rgb(17, 93, 93);
+}
 ul{
   display: flex;
   gap: 20px;
